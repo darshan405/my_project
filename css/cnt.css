@@ -1,8 +1,8 @@
-	.center {
+	/*.center {
 		text-align: center;
-		color: black; /*class selector*/
+		color: black; /*class selector
 		padding: 19px;
-	}
+	}*/
 	body {
 		background-image: url("../images/42_1_contact-us.jpg");
 		/*background-repeat: repeat-x;/*repeated only horizontally */
@@ -24,3 +24,4 @@
     position: relative;
     
 }
+
