@@ -1,17 +1,9 @@
 li {
     display: inline;
 }
-/*.floating-box {
-    float: left;
-    width: 150px;
-    height: 75px;
-    margin: 10px;
-    text-align: center;
-    border: 3px solid #73AD21;  
-}*/
 /* unvisited link */
 a:link {
-    color: gray;
+    color: yellow;
 }
 
 /* visited link */
