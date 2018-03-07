@@ -1,0 +1,31 @@
+		#para1 {
+			text-align: center;
+			color: red; /*id Selector*/
+		}
+
+		.center {
+			text-align: center;
+			color: red; /*class selector*/
+			padding: 19px;
+			color: green;
+		}
+		p{
+			color: red;
+		}
+		/*body {
+		    background-color: lightblue;
+		    }background-color*/
+
+		    body {
+		    	background-image: url("../images/premier_manufacturing.png");
+		    	/*background-repeat: repeat-x;/*repeated only horizontally */
+		    	/*background-repeat: repeat-y;repeated only vertically */
+		    	background-repeat: no-repeat;
+		    	background-position: ;/*position*/
+		    	/*margin-right: 100px;*/
+		    	background-size: 100% 200%;
+		    /*margin: 25px 50px 75px 100px;top margin is 25px
+										 right margin is 50px
+										 bottom margin is 75px
+										 left margin is 100px*/
+										}
