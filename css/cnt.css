@@ -1,0 +1,35 @@
+	.center {
+		text-align: center;
+		color: black; /*class selector*/
+		padding: 19px;
+	}
+	body {
+		background-image: url("../images/42_1_contact-us.jpg");
+		/*background-repeat: repeat-x;/*repeated only horizontally */
+		/*background-repeat: repeat-y;repeated only vertically */
+		background-repeat: no-repeat;
+		background-position: ;/*position*/
+		/*margin-right: 100px;*/
+		background-size: 100% 100%;
+	/*margin: 25px 50px 75px 100px;top margin is 25px
+	right margin is 50px
+	bottom margin is 75px
+	left margin is 100px*/
+}
+#main_content {
+    top: 160px;
+    left: 160px;
+    width: 800px;
+    min-height: 500px;
+    height: auto;
+    position: relative;
+}
+
+#container {
+    width: 50px;
+    height: auto;
+    margin: 50 auto;
+    padding: 10px;
+    position: relative;
+    
+}
